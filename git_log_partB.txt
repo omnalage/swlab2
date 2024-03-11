@@ -1,0 +1,78 @@
+commit 3b74aa20f8868297872aff47e296820a19110427
+Author: OM ASHOK NALAGE <omashoknalage@gmail.com>
+Date:   Mon Mar 11 15:08:23 2024 +0530
+
+    deleting file2.txt
+
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index e69de29..0000000
+
+commit 410242dfa70e30dfa67cce75d160e9723da24092
+Author: OM ASHOK NALAGE <omashoknalage@gmail.com>
+Date:   Mon Mar 11 15:04:09 2024 +0530
+
+    my favorite color
+
+diff --git a/file1.txt b/file1.txt
+index ea2019e..401e9bb 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,3 +1,4 @@
+ om nalage 
+ computer science
+-vgdajc b
+\ No newline at end of file
++vgdajc b
++kfhbeuydg
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..e69de29
+
+commit 643303263e8f146198b75d09792b1652946664be
+Author: OM ASHOK NALAGE <omashoknalage@gmail.com>
+Date:   Mon Mar 11 14:50:26 2024 +0530
+
+    added my favorite dish and movie
+
+diff --git a/file1.txt b/file1.txt
+index 81097cc..ea2019e 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,3 +1,3 @@
+ om nalage 
+-BT22CSE117
++computer science
+ vgdajc b
+\ No newline at end of file
+
+commit 46b4d8b9edfeb0527202e2780d686fe8247663fb
+Author: OM ASHOK NALAGE <omashoknalage@gmail.com>
+Date:   Mon Mar 11 14:47:15 2024 +0530
+
+    committing new file with my name
+
+diff --git a/file1.txt b/file1.txt
+index 951ef9b..81097cc 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,3 @@
+ om nalage 
+ BT22CSE117
++vgdajc b
+\ No newline at end of file
+
+commit 4c598838a43f3d2efdf5fff713e58201cac1722a
+Author: OM ASHOK NALAGE <omashoknalage@gmail.com>
+Date:   Mon Mar 11 14:36:34 2024 +0530
+
+    file1.txt
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..951ef9b
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1,2 @@
++om nalage 
++BT22CSE117
